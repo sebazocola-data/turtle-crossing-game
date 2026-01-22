@@ -99,3 +99,18 @@ Optimización: Uso de screen.tracer(0) para animación fluida
 
 Manejo de eventos: Teclado responsivo para controles
 
+##-------------------------------------------------------
+
+## 🔮 Roadmap (mejoras planeadas)
+
+### Versión 2.0:
+- [ ] Sistema de vidas (3 intentos)
+- [ ] Diferentes tipos de vehículos
+- [ ] Power-ups (invencibilidad temporal)
+- [ ] Tabla de records con nombres
+- [ ] Efectos de sonido con pygame
+
+### Refactorizaciones técnicas:
+- [ ] Mejorar detección de colisiones (bounding boxes)
+- [ ] Optimizar generación de coches (pooling)
+- [ ] Separar lógica de UI completamente
